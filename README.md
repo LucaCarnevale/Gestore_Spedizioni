@@ -5,6 +5,6 @@ Progetto realizzato in Java per la gestione di un software di spedizioni.
 
 Per eseguire questo progetto:
 
-1) Compilare il progetto con: javac src/Main.java
+1) Compilare il progetto con: javac *PATH*/Main.java
 
-2) entrare nella cartella classes e digitare java Main
+2) Eseguire tramite il comando java mainpkg.Main
